@@ -1,0 +1,342 @@
+{
+  "section-header": {
+    "navbar": [
+      {
+        "id": 1,
+        "text": "Home",
+        "href": "home",
+        "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714114243/drone_landing/mobile-icons/home-icon.png",
+        "alt": "icon home"
+      },
+      {
+        "id": 2,
+        "text": "Products",
+        "href": "products",
+        "icon": "/icons/products.png",
+        "alt": "icon products"
+      },
+      {
+        "id": 3,
+        "text": "Solutions",
+        "href": "solutions",
+        "icon": "/icons/solutions.png",
+        "alt": "icon solutions"
+      },
+      {
+        "id": 4,
+        "text": "Resources",
+        "href": "resources",
+        "icon": "/icons/resources.png",
+        "alt": "icon resources"
+      },
+      {
+        "id": 5,
+        "text": "Testimonials",
+        "href": "testimonials",
+        "icon": "/icons/testimonials.png",
+        "alt": "icon testimonials"
+      },
+      {
+        "id": 6,
+        "text": "Posts",
+        "href": "posts",
+        "icon": "/icons/posts.png",
+        "alt": "icon posts"
+      },
+      {
+        "id": 7,
+        "text": "Project",
+        "href": "project",
+        "icon": "/icons/project.png",
+        "alt": "icon project"
+      }
+    ],
+    "contact": {
+      "id": 7,
+      "text": "Contact Us",
+      "href": "contact",
+      "icon": "/icons/contact.png",
+      "alt": "icon contact"
+    },
+    "blog": {
+      "id": 8,
+      "text": "Blog",
+      "href": "https://www.blogger.com/",
+      "icon": "/icons/blog.png",
+      "alt": "icon blog"
+    },
+    "button": {}
+  },
+  "section-hero": {
+    "bg": { "url": "bgHero.png", "alt": "bg hero" },
+    "title": "Technology design tools",
+    "title2": "for engineers and hobbyists",
+    "subtitle": "Sit elit feugiat turpis sed integer integer accumsan turpis. Sed suspendisse nec lorem mauris.",
+    "button": "Request Demo"
+  },
+  "section-slider": [
+    {
+      "id": 1,
+      "url": "/logos/Logo-colored.png",
+      "alt": "logo1 image"
+    },
+    {
+      "id": 2,
+      "url": "/logos/Logo-colored (1).png",
+      "alt": "logo2 image"
+    },
+    {
+      "id": 3,
+      "url": "/logos/Logo-colored (2).png",
+      "alt": "logo3 image"
+    },
+    {
+      "id": 4,
+      "url": "/logos/Logo-colored (3).png",
+      "alt": "logo4 image"
+    },
+    {
+      "id": 5,
+      "url": "/logos/Logo-colored (4).png",
+      "alt": "logo4 image"
+    }
+  ],
+  "section-products": {
+    "pic2": { "url": "/products/pic2.webp", "alt": "image 2" },
+    "title": "Efficient collaboration",
+    "paragraph": "Mauris consequat, cursus pharetra et, habitasse rhoncus quis odio ac. In et dolor eu donec maecenas nulla. Cum sed orci, sit pellentesque quisque feugiat cras ullamcorper."
+  },
+  "section-solutions": {
+    "pic": { "url": "/solutions/pic.png", "alt": "image 1" },
+    "title": "Work from anywhere",
+    "paragraph": "In et dolor eu donec maecenas nulla. Cum sed orci, sit pellentesque quisque feugiat cras ullamcorper. Ultrices in amet, ullamcorper non viverra a, neque orci.",
+    "button1": { "url": "/solutions/button1.png", "alt": "button apple" },
+    "button2": { "url": "/solutions/button2.png", "alt": "button google" }
+  },
+  "section-demo": {
+    "title": "All the tech & design tools combined",
+    "subtitle": "Turpis purus, imperdiet integer amet, eu.",
+    "button": "Request Demo"
+  },
+  "section-resources": {
+    "title": "Get your business to grow fast",
+    "subtitle": "Aliquet id quam amet, augue netus tristique elementum eros urna. Dignissim nisl mauris cras feugiat congue at euismod donec.Lectus interdum nibh laoreet nunc bibendum volutpat.",
+    "image": { "url": "/resources/image.png", "alt": "image screen" },
+    "row": [
+      {
+        "id": 1,
+        "title": "Nisl arcu nunc",
+        "subtitle": "Dui consectetur gravida platea ut dis diam. Enim morbi proin auctor et.",
+        "icon": "/resources/Icon1.png",
+        "alt": "icon image"
+      },
+      {
+        "id": 2,
+        "title": "Dui scelerisque",
+        "subtitle": "Et sit duis vestibulum proin. Sollicitudin velit, etiam a feugiat sagittis.",
+        "icon": "/resources/Icon2.png",
+        "alt": "icon image"
+      },
+      {
+        "id": 3,
+        "title": "Ac proin at",
+        "subtitle": "Elit purus magna donec mattis amet, leo varius sed. Ut metus sed convallis.",
+        "icon": "/resources/Icon3.png",
+        "alt": "icon image"
+      }
+    ]
+  },
+  "section-testimonials": {
+    "bg": {
+      "url": "/testimonials/bgTestimonials.png",
+      "alt": "bg testimonials"
+    },
+    "title": "Let’s See What Our Clients Says",
+    "clients": [
+      {
+        "id": 1,
+        "name": "Brooklyn Simmons",
+        "role": "Nursing Assistant",
+        "paragraph": "Id urna, nisl, ut quam. Diam suspendisse fringilla quam arcu mattis est velit in. Nibh in purus sit convallis phasellus ut. At vel erat ultricies commodo. Neque suspendisse a habitasse commodo.",
+        "image": "/testimonials/picture.jpg",
+        "alt": "image client"
+      },
+      {
+        "id": 2,
+        "name": "Steve Henderson",
+        "role": "Mathematics Teacher",
+        "paragraph": "Id urna, nisl, ut quam. Diam suspendisse fringilla quam arcu mattis est velit in. Nibh in purus sit convallis phasellus ut. At vel erat ultricies commodo. Neque suspendisse a habitasse commodo.",
+        "image": "/testimonials/picture2.jpg",
+        "alt": "image client"
+      },
+      {
+        "id": 3,
+        "name": "Lorena Ramos",
+        "role": "Software Engineer",
+        "paragraph": "Id urna, nisl, ut quam. Diam suspendisse fringilla quam arcu mattis est velit in. Nibh in purus sit convallis phasellus ut. At vel erat ultricies commodo. Neque suspendisse a habitasse commodo.",
+        "image": "/testimonials/picture3.jpg",
+        "alt": "image client"
+      },
+      {
+        "id": 4,
+        "name": "Robert Smith",
+        "role": "Executive Chef",
+        "paragraph": "Id urna, nisl, ut quam. Diam suspendisse fringilla quam arcu mattis est velit in. Nibh in purus sit convallis phasellus ut. At vel erat ultricies commodo. Neque suspendisse a habitasse commodo.",
+        "image": "/testimonials/picture4.jpg",
+        "alt": "image client"
+      }
+    ]
+  },
+  "section-posts": {
+    "title": "The features you were looking for",
+    "cards": [
+      {
+        "id": 1,
+        "title": "Pellentesque turpis vestibulum",
+        "paragraph": "Ullamcorper enim, diam eros sed et vitae sit. Platea porttitor consequat, lorem in arcu et.",
+        "image": { "url": "/posts/picture.webp", "alt": "post img" },
+        "link": "https://www.blogger.com/"
+      },
+      {
+        "id": 2,
+        "title": "Tincidunt quisque",
+        "paragraph": "Blandit ut tortor non, imperdiet. Morbi quam facilisis a nec tortor.",
+        "image": { "url": "/posts/picture2.webp", "alt": "post img" },
+        "link": "https://www.blogger.com/"
+      },
+      {
+        "id": 3,
+        "title": "Tincidunt magna diam",
+        "paragraph": "Massa mi pharetra viverra risus ornare sit. Viverra tortor, nulla et tellus, nunc.",
+        "image": { "url": "/posts/picture3.webp", "alt": "post img" },
+        "link": "https://www.blogger.com/"
+      },
+      {
+        "id": 4,
+        "title": "Purus habitasse",
+        "paragraph": "Massa arcu ut id risus et. Neque mauris sagittis cursus tincidunt egestas faucibus amet adipiscing scelerisque.",
+        "image": { "url": "/posts/picture4.webp", "alt": "post img" },
+        "link": "https://www.blogger.com/"
+      },
+      {
+        "id": 5,
+        "title": "Dictum elementum",
+        "paragraph": "Ullamcorper aliquam maecenas sapien sapien tempus tincidunt urna tempus. Dignissim ut felis a dui a massa risus.",
+        "image": { "url": "/posts/picture5.webp", "alt": "post img" },
+        "link": "https://www.blogger.com/"
+      },
+      {
+        "id": 6,
+        "title": "Semper vulputate ut",
+        "paragraph": "Tortor arcu eget nisi neque, in nunc metus. Posuere in egestas pharetra euismod commodo vitae consectetur.",
+        "image": { "url": "/posts/picture6.webp", "alt": "post img" },
+        "link": "https://www.blogger.com/"
+      }
+    ]
+  },
+  "section-project": {
+    "title": "Project: Creant IA Studio",
+    "subtitle": "Felis, semper ullamcorper sed pretium tristique vulputate semper massa ultrices. Integer orci gravida blandit amet.",
+    "cards": [
+      {
+        "id": 1,
+        "title": "Title",
+        "subttile": "Egestas elit dui scelerisque ut eu purus aliquam vitae habitasse.",
+        "action": {
+          "text": "Read article",
+          "url": "https://www.blogger.com/"
+        },
+        "image": { "url": "/project/card1.png", "alt": "card picture" }
+      },
+      {
+        "id": 2,
+        "title": "Title",
+        "subttile": "Egestas elit dui scelerisque ut eu purus aliquam vitae habitasse.",
+        "action": {
+          "text": "Read article",
+          "url": "https://www.blogger.com/"
+        },
+        "image": { "url": "/project/card2.png", "alt": "card picture" }
+      },
+      {
+        "id": 3,
+        "title": "Title",
+        "subttile": "Egestas elit dui scelerisque ut eu purus aliquam vitae habitasse.",
+        "action": {
+          "text": "Read article",
+          "url": "https://www.blogger.com/"
+        },
+        "image": { "url": "/project/card3.png", "alt": "card picture" }
+      }
+    ]
+  },
+  "section-contact": {
+    "title": "Contact us to receive all the news",
+    "input_placeholder": "Enter your email",
+    "button": "Contact Us",
+    "error": "Please enter a valid email address."
+  },
+  "section-footer": {
+    "rights": "@ 2024 Creant-Ia, Inc. All rights reserved.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "contact": "Contact",
+    "links": [
+      {
+        "id": 1,
+        "text": "Home",
+        "href": "home"
+      },
+      {
+        "id": 2,
+        "text": "Products",
+        "href": "products"
+      },
+      {
+        "id": 3,
+        "text": "Solutions",
+        "href": "solutions"
+      },
+      {
+        "id": 4,
+        "text": "Resources",
+        "href": "resources"
+      },
+      {
+        "id": 5,
+        "text": "Testimonials",
+        "href": "testimonials"
+      },
+      {
+        "id": 6,
+        "text": "Posts",
+        "href": "posts"
+      },
+      {
+        "id": 6,
+        "text": "Project",
+        "href": "project"
+      }
+    ]
+  },
+  "logo": {
+    "url": "Logo.png",
+    "alt": "logo image",
+    "text": "Creant"
+  },
+
+  "logo-color": {
+    "url": "Logo-color.png",
+    "alt": "logo image",
+    "text": "Creant"
+  },
+  "contact": {
+    "email": "creant-ia-digital@gmail.com"
+  },
+  "blog": {
+    "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714111452/drone_landing/blog/blog-icon.png",
+    "title": "Blog",
+    "text": "Visit our blog!",
+    "url": "https://www.blogger.com/"
+  }
+}

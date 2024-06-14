@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* .shadow-only-painted {
+  filter: drop-shadow(0 20px 12px rgba(0, 0, 0, 0.3));
+}
+.shadow-only {
+  filter: drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.3));
+} */
+
+button:hover {
+  filter: brightness(1.1);
+  transition: filter 0.3ms;
+}
+
+button:active {
+  filter: saturate(0.8);
+  color: darkslategrey;
+  transition: filter 1s;
+}
+
+.ShadowText {
+  text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.5);
+}
+
+.slick-arrow {
+  display: none !important;
+}
+
+.arrow-left {
+  color: white;
+  cursor: pointer;
+  width: 48px;
+}
+
+.arrow-right {
+  color: white;
+  cursor: pointer;
+  width: 48px;
+}
