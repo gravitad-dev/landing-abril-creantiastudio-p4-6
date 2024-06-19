@@ -102,7 +102,10 @@
     }
   ],
   "section-products": {
-    "pic2": { "url": "/products/pic2.webp", "alt": "image 2" },
+    "pic2": {
+      "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718817961/products.webp",
+      "alt": "image 2"
+    },
     "title": "Who We Are",
     "paragraph": "At Creantia Studio, we lead the way in blending artificial intelligence with marketing automation. Our passion lies in transforming data into innovative strategies that drive our clients' growth. With a team of technology and marketing experts, we're dedicated to taking your business to the next level."
   },
@@ -158,7 +161,7 @@
         "name": "Brooklyn Simmons",
         "role": "Business Transformation Specialist",
         "paragraph": "As a Nursing Assistant, I've seen firsthand how Creantia Studio's AI and automation solutions enhance customer experience and business outcomes.",
-        "image": "/testimonials/picture.jpg",
+        "image": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718818106/testimonials/wipd7iup06yhhhcewnf8.avif",
         "alt": "image client"
       },
       {
@@ -340,13 +343,13 @@
     ]
   },
   "logo": {
-    "url": "/Logo.png",
+    "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718816400/logos/Creantia.png",
     "alt": "logo image",
     "text": "Creantia Studio"
   },
 
   "logo-color": {
-    "url": "/Logo-color.png",
+    "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718816400/logos/Creantia.png",
     "alt": "logo image",
     "text": "Creantia Studio"
   },
