@@ -14,7 +14,7 @@ function Products() {
             <img
               src={data['section-products'].pic2.url}
               alt={data['section-products'].pic2.alt}
-              className="object-cover w-[70vw] h-[50vw] sm:h-[35vw] xl:max-w-[600px] xl:max-h-[350px] rounded-lg border-2 border-blue-gray_Custom shadow-lg shadow-blue-lightgray_Custom"
+              className="object-cover w-[70vw] h-[50vw] sm:h-[35vw] xl:max-w-[600px] xl:max-h-[350px] rounded-lg shadow-md shadow-fucsia_Custom"
             />
           </div>
           <div className="text-center sm:text-start sm:max-w-[30vw]">

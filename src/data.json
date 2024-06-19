@@ -104,11 +104,11 @@
   "section-products": {
     "pic2": { "url": "/products/pic2.webp", "alt": "image 2" },
     "title": "Who We Are",
-    "paragraph": "At Creant IA Studio, we lead the way in blending artificial intelligence with marketing automation. Our passion lies in transforming data into innovative strategies that drive our clients' growth. With a team of technology and marketing experts, we're dedicated to taking your business to the next level."
+    "paragraph": "At Creantia Studio, we lead the way in blending artificial intelligence with marketing automation. Our passion lies in transforming data into innovative strategies that drive our clients' growth. With a team of technology and marketing experts, we're dedicated to taking your business to the next level."
   },
   "section-solutions": {
     "pic": { "url": "/solutions/pic.png", "alt": "image 1" },
-    "title": "At Creant IA Studio, our...",
+    "title": "At Creantia Studio, our...",
     "paragraph": "commitment to innovation ensures that we remain one step ahead, providing our clients with a significant competitive advantage.",
     "button1": { "url": "/solutions/button1.png", "alt": "button apple" },
     "button2": { "url": "/solutions/button2.png", "alt": "button google" }
@@ -157,7 +157,7 @@
         "id": 1,
         "name": "Brooklyn Simmons",
         "role": "Business Transformation Specialist",
-        "paragraph": "As a Nursing Assistant, I've seen firsthand how Creant IA Studio's AI and automation solutions enhance customer experience and business outcomes.",
+        "paragraph": "As a Nursing Assistant, I've seen firsthand how Creantia Studio's AI and automation solutions enhance customer experience and business outcomes.",
         "image": "/testimonials/picture.jpg",
         "alt": "image client"
       },
@@ -165,7 +165,7 @@
         "id": 2,
         "name": "Steve Henderson",
         "role": "AI Integration Leader",
-        "paragraph": "My role as a Mathematics Teacher aligns with Creant IA Studio's vision to lead in AI and marketing automation, shaping a future of accurate customer anticipation.",
+        "paragraph": "My role as a Mathematics Teacher aligns with Creantia Studio's vision to lead in AI and marketing automation, shaping a future of accurate customer anticipation.",
         "image": "/testimonials/picture2.jpg",
         "alt": "image client"
       },
@@ -173,7 +173,7 @@
         "id": 3,
         "name": "Lorena Ramos",
         "role": "Technology Strategist",
-        "paragraph": "As a Software Engineer at Creant IA Studio, I contribute to designing personalized strategies that blend creativity, technology, and deep analysis for exceptional results.",
+        "paragraph": "As a Software Engineer at Creantia Studio, I contribute to designing personalized strategies that blend creativity, technology, and deep analysis for exceptional results.",
         "image": "/testimonials/picture3.jpg",
         "alt": "image client"
       },
@@ -235,7 +235,7 @@
     ]
   },
   "section-project": {
-    "title": "Creant IA Studio, Why Trust Us",
+    "title": "Creantia Studio, Why Trust Us",
     "subtitle": "",
     "cards": [
       {
@@ -276,7 +276,7 @@
           "text": "Read article",
           "url": "https://blog.creantiastudio.com/"
         },
-        "image": { "url": "/project/card3.png", "alt": "card picture" }
+        "image": { "url": "/copys/7.jpeg", "alt": "card picture" }
       },
       {
         "id": 5,
@@ -286,7 +286,7 @@
           "text": "Read article",
           "url": "https://blog.creantiastudio.com/"
         },
-        "image": { "url": "/project/card3.png", "alt": "card picture" }
+        "image": { "url": "/copys/2.jpg", "alt": "card picture" }
       }
     ]
   },
@@ -297,7 +297,7 @@
     "error": "Please enter a valid email address."
   },
   "section-footer": {
-    "rights": "@ 2024 Creant-Ia, Inc. All rights reserved.",
+    "rights": "@ 2024 Creantia, Inc. All rights reserved.",
     "terms": "Terms",
     "privacy": "Privacy",
     "contact": "Contact",
@@ -342,13 +342,13 @@
   "logo": {
     "url": "Logo.png",
     "alt": "logo image",
-    "text": "Creant"
+    "text": "Creantia Studio"
   },
 
   "logo-color": {
     "url": "Logo-color.png",
     "alt": "logo image",
-    "text": "Creant"
+    "text": "Creantia Studio"
   },
   "contact": {
     "email": "creant-ia-digital@gmail.com"
