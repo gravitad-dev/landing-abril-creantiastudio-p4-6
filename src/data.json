@@ -68,7 +68,7 @@
     "button": {}
   },
   "section-hero": {
-    "bg": { "url": "bgHero.png", "alt": "bg hero" },
+    "bg": { "url": "/bgHero.png", "alt": "bg hero" },
     "title": "Empowering the Future",
     "title2": "of Marketing",
     "subtitle": "With Artificial Intelligence, We Transform Your Strategies into Success",
@@ -340,13 +340,13 @@
     ]
   },
   "logo": {
-    "url": "Logo.png",
+    "url": "/Logo.png",
     "alt": "logo image",
     "text": "Creantia Studio"
   },
 
   "logo-color": {
-    "url": "Logo-color.png",
+    "url": "/Logo-color.png",
     "alt": "logo image",
     "text": "Creantia Studio"
   },
