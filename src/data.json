@@ -61,7 +61,7 @@
     "blog": {
       "id": 8,
       "text": "Blog",
-      "href": "https://www.blogger.com/",
+      "href": "https://blog.creantiastudio.com/",
       "icon": "/icons/blog.png",
       "alt": "icon blog"
     },
@@ -69,9 +69,9 @@
   },
   "section-hero": {
     "bg": { "url": "bgHero.png", "alt": "bg hero" },
-    "title": "Technology design tools",
-    "title2": "for engineers and hobbyists",
-    "subtitle": "Sit elit feugiat turpis sed integer integer accumsan turpis. Sed suspendisse nec lorem mauris.",
+    "title": "Empowering the Future",
+    "title2": "of Marketing",
+    "subtitle": "With Artificial Intelligence, We Transform Your Strategies into Success",
     "button": "Request Demo"
   },
   "section-slider": [
@@ -103,44 +103,44 @@
   ],
   "section-products": {
     "pic2": { "url": "/products/pic2.webp", "alt": "image 2" },
-    "title": "Efficient collaboration",
-    "paragraph": "Mauris consequat, cursus pharetra et, habitasse rhoncus quis odio ac. In et dolor eu donec maecenas nulla. Cum sed orci, sit pellentesque quisque feugiat cras ullamcorper."
+    "title": "Who We Are",
+    "paragraph": "At Creant IA Studio, we lead the way in blending artificial intelligence with marketing automation. Our passion lies in transforming data into innovative strategies that drive our clients' growth. With a team of technology and marketing experts, we're dedicated to taking your business to the next level."
   },
   "section-solutions": {
     "pic": { "url": "/solutions/pic.png", "alt": "image 1" },
-    "title": "Work from anywhere",
-    "paragraph": "In et dolor eu donec maecenas nulla. Cum sed orci, sit pellentesque quisque feugiat cras ullamcorper. Ultrices in amet, ullamcorper non viverra a, neque orci.",
+    "title": "At Creant IA Studio, our...",
+    "paragraph": "commitment to innovation ensures that we remain one step ahead, providing our clients with a significant competitive advantage.",
     "button1": { "url": "/solutions/button1.png", "alt": "button apple" },
     "button2": { "url": "/solutions/button2.png", "alt": "button google" }
   },
   "section-demo": {
     "title": "All the tech & design tools combined",
-    "subtitle": "Turpis purus, imperdiet integer amet, eu.",
+    "subtitle": "Discover a comprehensive suite of tools designed for success.",
     "button": "Request Demo"
   },
   "section-resources": {
-    "title": "Get your business to grow fast",
-    "subtitle": "Aliquet id quam amet, augue netus tristique elementum eros urna. Dignissim nisl mauris cras feugiat congue at euismod donec.Lectus interdum nibh laoreet nunc bibendum volutpat.",
+    "title": "Accelerate Your Business Growth",
+    "subtitle": "Access resources that help you scale efficiently and effectively, achieving remarkable results.",
     "image": { "url": "/resources/image.png", "alt": "image screen" },
     "row": [
       {
         "id": 1,
-        "title": "Nisl arcu nunc",
-        "subtitle": "Dui consectetur gravida platea ut dis diam. Enim morbi proin auctor et.",
+        "title": "AI-powered Marketing Automation",
+        "subtitle": "Optimize your marketing efforts with AI-driven automation tools.",
         "icon": "/resources/Icon1.png",
         "alt": "icon image"
       },
       {
         "id": 2,
-        "title": "Dui scelerisque",
-        "subtitle": "Et sit duis vestibulum proin. Sollicitudin velit, etiam a feugiat sagittis.",
+        "title": "Customer Data Platform (CDP)",
+        "subtitle": "Consolidate customer data to enhance personalization and engagement.",
         "icon": "/resources/Icon2.png",
         "alt": "icon image"
       },
       {
         "id": 3,
-        "title": "Ac proin at",
-        "subtitle": "Elit purus magna donec mattis amet, leo varius sed. Ut metus sed convallis.",
+        "title": "Predictive Analytics",
+        "subtitle": "Utilize predictive analytics to anticipate trends and customer behavior.",
         "icon": "/resources/Icon3.png",
         "alt": "icon image"
       }
@@ -151,129 +151,149 @@
       "url": "/testimonials/bgTestimonials.png",
       "alt": "bg testimonials"
     },
-    "title": "Let’s See What Our Clients Says",
+    "title": "Let’s See What Our Clients Say",
     "clients": [
       {
         "id": 1,
         "name": "Brooklyn Simmons",
-        "role": "Nursing Assistant",
-        "paragraph": "Id urna, nisl, ut quam. Diam suspendisse fringilla quam arcu mattis est velit in. Nibh in purus sit convallis phasellus ut. At vel erat ultricies commodo. Neque suspendisse a habitasse commodo.",
+        "role": "Business Transformation Specialist",
+        "paragraph": "As a Nursing Assistant, I've seen firsthand how Creant IA Studio's AI and automation solutions enhance customer experience and business outcomes.",
         "image": "/testimonials/picture.jpg",
         "alt": "image client"
       },
       {
         "id": 2,
         "name": "Steve Henderson",
-        "role": "Mathematics Teacher",
-        "paragraph": "Id urna, nisl, ut quam. Diam suspendisse fringilla quam arcu mattis est velit in. Nibh in purus sit convallis phasellus ut. At vel erat ultricies commodo. Neque suspendisse a habitasse commodo.",
+        "role": "AI Integration Leader",
+        "paragraph": "My role as a Mathematics Teacher aligns with Creant IA Studio's vision to lead in AI and marketing automation, shaping a future of accurate customer anticipation.",
         "image": "/testimonials/picture2.jpg",
         "alt": "image client"
       },
       {
         "id": 3,
         "name": "Lorena Ramos",
-        "role": "Software Engineer",
-        "paragraph": "Id urna, nisl, ut quam. Diam suspendisse fringilla quam arcu mattis est velit in. Nibh in purus sit convallis phasellus ut. At vel erat ultricies commodo. Neque suspendisse a habitasse commodo.",
+        "role": "Technology Strategist",
+        "paragraph": "As a Software Engineer at Creant IA Studio, I contribute to designing personalized strategies that blend creativity, technology, and deep analysis for exceptional results.",
         "image": "/testimonials/picture3.jpg",
         "alt": "image client"
       },
       {
         "id": 4,
         "name": "Robert Smith",
-        "role": "Executive Chef",
-        "paragraph": "Id urna, nisl, ut quam. Diam suspendisse fringilla quam arcu mattis est velit in. Nibh in purus sit convallis phasellus ut. At vel erat ultricies commodo. Neque suspendisse a habitasse commodo.",
+        "role": "Culinary Business Innovator",
+        "paragraph": "I specialize in tailoring AI solutions to meet the specific needs of culinary businesses, ensuring measurable impacts.",
         "image": "/testimonials/picture4.jpg",
         "alt": "image client"
       }
     ]
   },
   "section-posts": {
-    "title": "The features you were looking for",
+    "title": "Our Services",
     "cards": [
       {
         "id": 1,
-        "title": "Pellentesque turpis vestibulum",
-        "paragraph": "Ullamcorper enim, diam eros sed et vitae sit. Platea porttitor consequat, lorem in arcu et.",
+        "title": "Marketing Automation",
+        "paragraph": "Streamline your campaigns with intelligent automation that saves time and maximizes results.",
         "image": { "url": "/posts/picture.webp", "alt": "post img" },
-        "link": "https://www.blogger.com/"
+        "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 2,
-        "title": "Tincidunt quisque",
-        "paragraph": "Blandit ut tortor non, imperdiet. Morbi quam facilisis a nec tortor.",
+        "title": "Predictive Analytics",
+        "paragraph": "Leverage data insights to accurately forecast trends and understand consumer behavior.",
         "image": { "url": "/posts/picture2.webp", "alt": "post img" },
-        "link": "https://www.blogger.com/"
+        "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 3,
-        "title": "Tincidunt magna diam",
-        "paragraph": "Massa mi pharetra viverra risus ornare sit. Viverra tortor, nulla et tellus, nunc.",
+        "title": "Advanced Personalization",
+        "paragraph": "Create personalized and unique experiences for each customer using advanced AI technology.",
         "image": { "url": "/posts/picture3.webp", "alt": "post img" },
-        "link": "https://www.blogger.com/"
+        "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 4,
-        "title": "Purus habitasse",
-        "paragraph": "Massa arcu ut id risus et. Neque mauris sagittis cursus tincidunt egestas faucibus amet adipiscing scelerisque.",
+        "title": "Data Management",
+        "paragraph": "Organize, manage, and effectively utilize your information for better business outcomes.",
         "image": { "url": "/posts/picture4.webp", "alt": "post img" },
-        "link": "https://www.blogger.com/"
+        "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 5,
-        "title": "Dictum elementum",
-        "paragraph": "Ullamcorper aliquam maecenas sapien sapien tempus tincidunt urna tempus. Dignissim ut felis a dui a massa risus.",
+        "title": "Chatbot Development",
+        "paragraph": "Enhance customer interactions with intelligent, AI-driven chatbots that improve engagement.",
         "image": { "url": "/posts/picture5.webp", "alt": "post img" },
-        "link": "https://www.blogger.com/"
+        "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 6,
-        "title": "Semper vulputate ut",
-        "paragraph": "Tortor arcu eget nisi neque, in nunc metus. Posuere in egestas pharetra euismod commodo vitae consectetur.",
+        "title": "Consulting and Strategy",
+        "paragraph": "Get expert advice on integrating AI solutions seamlessly into your business operations.",
         "image": { "url": "/posts/picture6.webp", "alt": "post img" },
-        "link": "https://www.blogger.com/"
+        "link": "https://blog.creantiastudio.com/"
       }
     ]
   },
   "section-project": {
-    "title": "Project: Creant IA Studio",
-    "subtitle": "Felis, semper ullamcorper sed pretium tristique vulputate semper massa ultrices. Integer orci gravida blandit amet.",
+    "title": "Creant IA Studio, Why Trust Us",
+    "subtitle": "",
     "cards": [
       {
         "id": 1,
-        "title": "Title",
-        "subttile": "Egestas elit dui scelerisque ut eu purus aliquam vitae habitasse.",
+        "title": "Proven Experience",
+        "subttile": "We have successful projects showcasing our expertise in AI and marketing automation.",
         "action": {
           "text": "Read article",
-          "url": "https://www.blogger.com/"
+          "url": "https://blog.creantiastudio.com/"
         },
         "image": { "url": "/project/card1.png", "alt": "card picture" }
       },
       {
         "id": 2,
-        "title": "Title",
-        "subttile": "Egestas elit dui scelerisque ut eu purus aliquam vitae habitasse.",
+        "title": "Multidisciplinary Team",
+        "subttile": "Our team brings together knowledge in technology, marketing, and data analysis",
         "action": {
           "text": "Read article",
-          "url": "https://www.blogger.com/"
+          "url": "https://blog.creantiastudio.com/"
         },
         "image": { "url": "/project/card2.png", "alt": "card picture" }
       },
       {
         "id": 3,
-        "title": "Title",
-        "subttile": "Egestas elit dui scelerisque ut eu purus aliquam vitae habitasse.",
+        "title": "Constant Innovation",
+        "subttile": "We stay at the forefront of the latest trends and technological advancements.",
         "action": {
           "text": "Read article",
-          "url": "https://www.blogger.com/"
+          "url": "https://blog.creantiastudio.com/"
+        },
+        "image": { "url": "/project/card3.png", "alt": "card picture" }
+      },
+      {
+        "id": 4,
+        "title": "Commitment to Quality",
+        "subttile": "We are dedicated to delivering high-quality solutions that exceed our clients' expectations.",
+        "action": {
+          "text": "Read article",
+          "url": "https://blog.creantiastudio.com/"
+        },
+        "image": { "url": "/project/card3.png", "alt": "card picture" }
+      },
+      {
+        "id": 5,
+        "title": "Transparency and Ethics",
+        "subttile": "We operate with full transparency and a strong ethical commitment.",
+        "action": {
+          "text": "Read article",
+          "url": "https://blog.creantiastudio.com/"
         },
         "image": { "url": "/project/card3.png", "alt": "card picture" }
       }
     ]
   },
   "section-contact": {
-    "title": "Contact us to receive all the news",
+    "title": "Stay Updated with Our Latest News",
     "input_placeholder": "Enter your email",
-    "button": "Contact Us",
+    "button": "Subscribe",
     "error": "Please enter a valid email address."
   },
   "section-footer": {
@@ -337,6 +357,6 @@
     "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714111452/drone_landing/blog/blog-icon.png",
     "title": "Blog",
     "text": "Visit our blog!",
-    "url": "https://www.blogger.com/"
+    "url": "https://blog.creantiastudio.com/"
   }
 }

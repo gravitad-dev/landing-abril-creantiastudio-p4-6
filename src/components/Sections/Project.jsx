@@ -43,7 +43,7 @@ const Project = () => {
         {data['section-project'].cards.map((card, index) => (
           <div
             key={index}
-            className="border-2 border-blue-gray_Custom rounded-xl sm:max-w-[98%] mb-4"
+            className="border-2 rounded-xl sm:max-w-[90%] mb-4 shadow-md"
           >
             <img
               src={card.image.url}
@@ -52,7 +52,7 @@ const Project = () => {
             />
             <div className="px-4 mt-4 text-left">
               <h2 className="text-xl font-bold">{card.title}</h2>
-              <p className="text-md mt-2">{card.subttile}</p>
+              <p className="text-[14px] mt-2">{card.subttile}</p>
               <a href={card.action.url} target="_blank">
                 <div className="flex items-center justify-start gap-4 py-4 hover:text-blue-light_Custom">
                   <p className="">{card.action.text}</p>
