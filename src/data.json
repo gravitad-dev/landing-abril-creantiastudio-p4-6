@@ -72,7 +72,8 @@
     "title": "Empowering the Future",
     "title2": "of Marketing",
     "subtitle": "With Artificial Intelligence, We Transform Your Strategies into Success",
-    "button": "Request Demo"
+    "button": "Know Us",
+    "action": "https://blog.creantiastudio.com/"
   },
   "section-slider": [
     {
@@ -119,7 +120,8 @@
   "section-demo": {
     "title": "All the tech & design tools combined",
     "subtitle": "Discover a comprehensive suite of tools designed for success.",
-    "button": "Request Demo"
+    "button": "Explore More",
+    "action": "https://blog.creantiastudio.com/"
   },
   "section-resources": {
     "title": "Accelerate Your Business Growth",
@@ -218,7 +220,10 @@
         "id": 4,
         "title": "Data Management",
         "paragraph": "Organize, manage, and effectively utilize your information for better business outcomes.",
-        "image": { "url": "/posts/picture4.webp", "alt": "post img" },
+        "image": {
+          "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718896008/picture4.webp",
+          "alt": "post img"
+        },
         "link": "https://blog.creantiastudio.com/"
       },
       {

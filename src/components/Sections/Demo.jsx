@@ -10,9 +10,11 @@ function Demo() {
         <p className="text-md sm:text-xl font-thin mt-2">
           {data['section-demo'].subtitle}
         </p>
-        <button className="text-xs sm:text-[16px] mt-6 bg-blue-gray_Custom shadow-sm shadow-fucsia_Custom py-2 sm:py-3 px-8 rounded-md active:text-white active:shadow-none transition-all">
-          {data['section-demo'].button}
-        </button>
+        <a href={data['section-demo'].action} target="_blank">
+          <button className="text-xs sm:text-[16px] mt-6 bg-blue-gray_Custom shadow-sm shadow-fucsia_Custom py-2 sm:py-3 px-8 rounded-md active:text-white active:shadow-none transition-all">
+            {data['section-demo'].button}
+          </button>
+        </a>
       </div>
     </div>
   );

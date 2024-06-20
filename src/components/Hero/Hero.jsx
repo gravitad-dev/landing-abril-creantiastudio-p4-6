@@ -14,9 +14,11 @@ function Hero() {
           <p className="text-md sm:text-xl sm:w-3/4 mx-auto sm:mt-8 font-thin px-2">
             {data['section-hero'].subtitle}
           </p>
-          <button className="bg-blue-gray_Custom p-2 px-6 mt-8 rounded-md active:text-white transition-all shadow-blue-light_Custom shadow-sm active:shadow-none">
-            {data['section-hero'].button}
-          </button>
+          <a href={data['section-hero'].action} target="_blank">
+            <button className="bg-blue-gray_Custom p-2 px-6 mt-8 rounded-md active:text-white transition-all shadow-blue-light_Custom shadow-sm active:shadow-none">
+              {data['section-hero'].button}
+            </button>
+          </a>
         </div>
       </div>
     </section>
