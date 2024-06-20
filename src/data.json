@@ -225,7 +225,10 @@
         "id": 5,
         "title": "Chatbot Development",
         "paragraph": "Enhance customer interactions with intelligent, AI-driven chatbots that improve engagement.",
-        "image": { "url": "/posts/picture5.webp", "alt": "post img" },
+        "image": {
+          "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718853033/chatbot.webp",
+          "alt": "post img"
+        },
         "link": "https://blog.creantiastudio.com/"
       },
       {
