@@ -3,49 +3,49 @@
     "navbar": [
       {
         "id": 1,
-        "text": "Home",
+        "text": "Principal",
         "href": "home",
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714114243/drone_landing/mobile-icons/home-icon.png",
         "alt": "icon home"
       },
       {
         "id": 2,
-        "text": "Products",
+        "text": "Productos",
         "href": "products",
         "icon": "/icons/products.png",
         "alt": "icon products"
       },
       {
         "id": 3,
-        "text": "Solutions",
+        "text": "Soluciónes",
         "href": "solutions",
         "icon": "/icons/solutions.png",
         "alt": "icon solutions"
       },
       {
         "id": 4,
-        "text": "Resources",
+        "text": "Recursos",
         "href": "resources",
         "icon": "/icons/resources.png",
         "alt": "icon resources"
       },
       {
         "id": 5,
-        "text": "Testimonials",
+        "text": "Testimonios",
         "href": "testimonials",
         "icon": "/icons/testimonials.png",
         "alt": "icon testimonials"
       },
       {
         "id": 6,
-        "text": "Posts",
+        "text": "Servicios",
         "href": "posts",
         "icon": "/icons/posts.png",
         "alt": "icon posts"
       },
       {
         "id": 7,
-        "text": "Project",
+        "text": "Proyectos",
         "href": "project",
         "icon": "/icons/project.png",
         "alt": "icon project"
@@ -53,7 +53,7 @@
     ],
     "contact": {
       "id": 7,
-      "text": "Contact Us",
+      "text": "Contactar",
       "href": "contact",
       "icon": "/icons/contact.png",
       "alt": "icon contact"
@@ -69,10 +69,10 @@
   },
   "section-hero": {
     "bg": { "url": "/bgHero.png", "alt": "bg hero" },
-    "title": "Empowering the Future",
-    "title2": "of Marketing",
-    "subtitle": "With Artificial Intelligence, We Transform Your Strategies into Success",
-    "button": "Know Us",
+    "title": "Empoderando el Futuro ",
+    "title2": "del Marketing",
+    "subtitle": "Con inteligencia artificial, transformamos tus estrategias en éxito.",
+    "button": "Conocenos",
     "action": "https://blog.creantiastudio.com/"
   },
   "section-slider": [
@@ -107,45 +107,45 @@
       "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718817961/products.webp",
       "alt": "image 2"
     },
-    "title": "Who We Are",
-    "paragraph": "At Creantia Studio, we lead the way in blending artificial intelligence with marketing automation. Our passion lies in transforming data into innovative strategies that drive our clients' growth. With a team of technology and marketing experts, we're dedicated to taking your business to the next level."
+    "title": "Quienes Somos",
+    "paragraph": "En Creant IA Studio, lideramos la integración de la inteligencia artificial con la automatización del marketing. Nuestra pasión radica en transformar datos en estrategias innovadoras que impulsen el crecimiento de nuestros clientes. Con un equipo de expertos en tecnología y marketing, estamos dedicados a llevar tu negocio al siguiente nivel."
   },
   "section-solutions": {
     "pic": { "url": "/solutions/pic.png", "alt": "image 1" },
-    "title": "At Creantia Studio, our...",
-    "paragraph": "commitment to innovation ensures that we remain one step ahead, providing our clients with a significant competitive advantage.",
+    "title": "En Creant IA Studio, nuestro...",
+    "paragraph": "compromiso con la innovación garantiza que nos mantenemos un paso adelante, proporcionando a nuestros clientes una ventaja competitiva significativa.",
     "button1": { "url": "/solutions/button1.png", "alt": "button apple" },
     "button2": { "url": "/solutions/button2.png", "alt": "button google" }
   },
   "section-demo": {
-    "title": "All the tech & design tools combined",
-    "subtitle": "Discover a comprehensive suite of tools designed for success.",
-    "button": "Explore More",
+    "title": "Todas las herramientas tecnológicas y de diseño combinadas",
+    "subtitle": "Descubra un completo conjunto de herramientas diseñadas para el éxito.",
+    "button": "Explora más",
     "action": "https://blog.creantiastudio.com/"
   },
   "section-resources": {
-    "title": "Accelerate Your Business Growth",
-    "subtitle": "Access resources that help you scale efficiently and effectively, achieving remarkable results.",
+    "title": "Acelere el crecimiento de su empresa",
+    "subtitle": "Acceda a recursos que le ayudarán a escalar de forma eficiente y eficaz, logrando resultados notables.",
     "image": { "url": "/resources/image.png", "alt": "image screen" },
     "row": [
       {
         "id": 1,
-        "title": "AI-powered Marketing Automation",
-        "subtitle": "Optimize your marketing efforts with AI-driven automation tools.",
+        "title": "Automatización de marketing impulsada por IA",
+        "subtitle": "Optimice sus esfuerzos de marketing con herramientas de automatización basadas en IA.",
         "icon": "/resources/Icon1.png",
         "alt": "icon image"
       },
       {
         "id": 2,
-        "title": "Customer Data Platform (CDP)",
-        "subtitle": "Consolidate customer data to enhance personalization and engagement.",
+        "title": "Plataforma de datos de clientes (CDP)",
+        "subtitle": "Consolide los datos de los clientes para mejorar la personalización y el compromiso.",
         "icon": "/resources/Icon2.png",
         "alt": "icon image"
       },
       {
         "id": 3,
-        "title": "Predictive Analytics",
-        "subtitle": "Utilize predictive analytics to anticipate trends and customer behavior.",
+        "title": "Análisis predictivo",
+        "subtitle": "Utilizar análisis predictivos para anticipar tendencias y comportamientos de los clientes.",
         "icon": "/resources/Icon3.png",
         "alt": "icon image"
       }
@@ -162,7 +162,7 @@
         "id": 1,
         "name": "Brooklyn Simmons",
         "role": "Business Transformation Specialist",
-        "paragraph": "As a Nursing Assistant, I've seen firsthand how Creantia Studio's AI and automation solutions enhance customer experience and business outcomes.",
+        "paragraph": "Nuestra misión en Creant IA Studio es revolucionar la forma en que las empresas se conectan con sus clientes a través de soluciones de IA y automatización. Nuestro objetivo es proporcionar herramientas y estrategias que no solo optimicen los procesos, sino que también mejoren significativamente la experiencia del cliente y los resultados empresariales.",
         "image": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718818106/testimonials/wipd7iup06yhhhcewnf8.avif",
         "alt": "image client"
       },
@@ -170,7 +170,7 @@
         "id": 2,
         "name": "Steve Henderson",
         "role": "AI Integration Leader",
-        "paragraph": "My role as a Mathematics Teacher aligns with Creantia Studio's vision to lead in AI and marketing automation, shaping a future of accurate customer anticipation.",
+        "paragraph": "Ser reconocidos globalmente como líderes en la integración de IA y automatización de marketing, moldeando un futuro donde las empresas puedan anticipar y satisfacer con precisión las necesidades de los clientes.",
         "image": "/testimonials/picture2.jpg",
         "alt": "image client"
       },
@@ -178,7 +178,7 @@
         "id": 3,
         "name": "Lorena Ramos",
         "role": "Technology Strategist",
-        "paragraph": "As a Software Engineer at Creantia Studio, I contribute to designing personalized strategies that blend creativity, technology, and deep analysis for exceptional results.",
+        "paragraph": "En Creant IA Studio, no solo implementamos soluciones tecnológicas; diseñamos estrategias personalizadas que se alinean con los objetivos únicos de cada cliente. Nuestro enfoque integral combina creatividad, tecnología y un análisis profundo para ofrecer resultados sobresalientes.",
         "image": "/testimonials/picture3.jpg",
         "alt": "image client"
       },
@@ -186,40 +186,40 @@
         "id": 4,
         "name": "Robert Smith",
         "role": "Culinary Business Innovator",
-        "paragraph": "I specialize in tailoring AI solutions to meet the specific needs of culinary businesses, ensuring measurable impacts.",
+        "paragraph": "Nos destacamos por adaptar la IA para satisfacer las necesidades específicas de tu negocio, asegurando un impacto tangible y medible.",
         "image": "/testimonials/picture4.jpg",
         "alt": "image client"
       }
     ]
   },
   "section-posts": {
-    "title": "Our Services",
+    "title": "Nuestros Servicios",
     "cards": [
       {
         "id": 1,
-        "title": "Marketing Automation",
-        "paragraph": "Streamline your campaigns with intelligent automation that saves time and maximizes results.",
+        "title": "Automatización de Marketing",
+        "paragraph": "Optimiza tus campañas con automatización inteligente que ahorra tiempo y maximiza los resultados.",
         "image": { "url": "/posts/picture.webp", "alt": "post img" },
         "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 2,
-        "title": "Predictive Analytics",
-        "paragraph": "Leverage data insights to accurately forecast trends and understand consumer behavior.",
+        "title": "Análisis Predictivo",
+        "paragraph": "Utiliza datos para pronosticar tendencias y comportamientos del consumidor.",
         "image": { "url": "/posts/picture2.webp", "alt": "post img" },
         "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 3,
-        "title": "Advanced Personalization",
-        "paragraph": "Create personalized and unique experiences for each customer using advanced AI technology.",
+        "title": "Personalización Avanzada",
+        "paragraph": "Crea experiencias únicas para cada cliente con IA. Gestión de Datos: Organiza y utiliza tu información de manera efectiva.",
         "image": { "url": "/posts/picture3.webp", "alt": "post img" },
         "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 4,
-        "title": "Data Management",
-        "paragraph": "Organize, manage, and effectively utilize your information for better business outcomes.",
+        "title": "Gestión de Datos",
+        "paragraph": "Organiza y utiliza tu información de manera efectiva.",
         "image": {
           "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718896008/picture4.webp",
           "alt": "post img"
@@ -228,8 +228,8 @@
       },
       {
         "id": 5,
-        "title": "Chatbot Development",
-        "paragraph": "Enhance customer interactions with intelligent, AI-driven chatbots that improve engagement.",
+        "title": "Desarrollo de Chatbots",
+        "paragraph": "Mejora la interacción con los clientes con chatbots impulsados por IA.",
         "image": {
           "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718853033/chatbot.webp",
           "alt": "post img"
@@ -238,63 +238,63 @@
       },
       {
         "id": 6,
-        "title": "Consulting and Strategy",
-        "paragraph": "Get expert advice on integrating AI solutions seamlessly into your business operations.",
+        "title": "Consultoría y Estrategia",
+        "paragraph": "Asesoramiento experto para integrar soluciones de IA en tu negocio.",
         "image": { "url": "/posts/picture6.webp", "alt": "post img" },
         "link": "https://blog.creantiastudio.com/"
       }
     ]
   },
   "section-project": {
-    "title": "Creantia Studio, Why Trust Us",
+    "title": "¿Por qué Confiar en Nosotros?",
     "subtitle": "",
     "cards": [
       {
         "id": 1,
-        "title": "Proven Experience",
-        "subttile": "We have successful projects showcasing our expertise in AI and marketing automation.",
+        "title": "Experiencia Comprobada",
+        "subttile": "Contamos con un historial de proyectos exitosos que demuestran nuestra experiencia en IA y automatización de marketing.",
         "action": {
-          "text": "Read article",
+          "text": "Saber más",
           "url": "https://blog.creantiastudio.com/"
         },
         "image": { "url": "/project/card1.png", "alt": "card picture" }
       },
       {
         "id": 2,
-        "title": "Multidisciplinary Team",
-        "subttile": "Our team brings together knowledge in technology, marketing, and data analysis",
+        "title": "Equipo Multidisciplinario",
+        "subttile": "Nuestro equipo reúne conocimientos en tecnología, marketing y análisis de datos.",
         "action": {
-          "text": "Read article",
+          "text": "Saber más",
           "url": "https://blog.creantiastudio.com/"
         },
         "image": { "url": "/project/card2.png", "alt": "card picture" }
       },
       {
         "id": 3,
-        "title": "Constant Innovation",
-        "subttile": "We stay at the forefront of the latest trends and technological advancements.",
+        "title": "Innovación Constante",
+        "subttile": "Nos mantenemos a la vanguardia de las últimas tendencias y avances tecnológicos.",
         "action": {
-          "text": "Read article",
+          "text": "Saber más",
           "url": "https://blog.creantiastudio.com/"
         },
         "image": { "url": "/project/card3.png", "alt": "card picture" }
       },
       {
         "id": 4,
-        "title": "Commitment to Quality",
-        "subttile": "We are dedicated to delivering high-quality solutions that exceed our clients' expectations.",
+        "title": "Compromiso con la Calidad",
+        "subttile": "Estamos dedicados a ofrecer soluciones de alta calidad que superen las expectativas de nuestros clientes.",
         "action": {
-          "text": "Read article",
+          "text": "Saber más",
           "url": "https://blog.creantiastudio.com/"
         },
         "image": { "url": "/copys/7.jpeg", "alt": "card picture" }
       },
       {
         "id": 5,
-        "title": "Transparency and Ethics",
-        "subttile": "We operate with full transparency and a strong ethical commitment.",
+        "title": "Transparencia y Ética",
+        "subttile": "Operamos con total transparencia y un fuerte compromiso ético.",
         "action": {
-          "text": "Read article",
+          "text": "Saber más",
           "url": "https://blog.creantiastudio.com/"
         },
         "image": { "url": "/copys/2.jpg", "alt": "card picture" }
@@ -302,50 +302,50 @@
     ]
   },
   "section-contact": {
-    "title": "Stay Updated with Our Latest News",
-    "input_placeholder": "Enter your email",
-    "button": "Subscribe",
-    "error": "Please enter a valid email address."
+    "title": "Mantente actualizado",
+    "input_placeholder": "Ingresa tu email",
+    "button": "Subscribete",
+    "error": "Ingresa un correo válido"
   },
   "section-footer": {
     "rights": "@ 2024 Creantia, Inc. All rights reserved.",
-    "terms": "Terms",
-    "privacy": "Privacy",
-    "contact": "Contact",
+    "terms": "Terminos",
+    "privacy": "Privacidad",
+    "contact": "Contacto",
     "links": [
       {
         "id": 1,
-        "text": "Home",
+        "text": "Principal",
         "href": "home"
       },
       {
         "id": 2,
-        "text": "Products",
+        "text": "Productos",
         "href": "products"
       },
       {
         "id": 3,
-        "text": "Solutions",
+        "text": "Soluciónes",
         "href": "solutions"
       },
       {
         "id": 4,
-        "text": "Resources",
+        "text": "Recursos",
         "href": "resources"
       },
       {
         "id": 5,
-        "text": "Testimonials",
+        "text": "Testimonios",
         "href": "testimonials"
       },
       {
         "id": 6,
-        "text": "Posts",
+        "text": "Servicios",
         "href": "posts"
       },
       {
         "id": 6,
-        "text": "Project",
+        "text": "Proyectos",
         "href": "project"
       }
     ]

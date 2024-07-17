@@ -1,5 +1,6 @@
-import data from '../data.json';
-import { Link } from 'react-scroll';
+import SocialButtons from "../components/Socials";
+import data from "../data.json";
+import { Link } from "react-scroll";
 
 function Footer() {
   return (
@@ -12,15 +13,15 @@ function Footer() {
           >
             <div className="flex items-center gap-2 w-max">
               <img
-                src={data['logo-color'].url}
-                alt={data['logo-color'].alt}
+                src={data["logo-color"].url}
+                alt={data["logo-color"].alt}
                 className="w-[24px] h-[24px] sm:w-[32px] sm:h-[32px] cursor-pointer"
               />
-              <p className="font-bold text-xl">{data['logo-color'].text}</p>
+              <p className="font-bold text-xl">{data["logo-color"].text}</p>
             </div>
           </a>
           <div className="w-full flex items-center justify-center md:justify-end gap-4 lg:gap-10 flex-wrap px-4">
-            {data['section-footer'].links.map((link, index) => (
+            {data["section-footer"].links.map((link, index) => (
               <Link
                 to={link.href}
                 spy={false}
@@ -47,21 +48,24 @@ function Footer() {
         </div>
         <div className="flex justify-center md:justify-between items-center w-[95vw] mx-auto text-sm flex-wrap gap-4">
           <div>
-            <p>{data['section-footer'].rights}</p>
+            <p>{data["section-footer"].rights}</p>
+          </div>
+          <div>
+            <SocialButtons />
           </div>
           <div className="flex items-center justify-center gap-4">
             <p className="hover:text-blue-light_Custom cursor-pointer">
-              {data['section-footer'].terms}
+              {data["section-footer"].terms}
             </p>
             <p className="hover:text-blue-light_Custom cursor-pointer">
-              {data['section-footer'].privacy}
+              {data["section-footer"].privacy}
             </p>
             <a
               href={`mailto:${data.contact.email}?subject=Contact`}
               className="cursor-pointer"
             >
               <p className="hover:text-blue-light_Custom">
-                {data['section-footer'].contact}
+                {data["section-footer"].contact}
               </p>
             </a>
           </div>
