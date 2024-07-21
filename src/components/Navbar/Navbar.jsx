@@ -80,7 +80,8 @@ const Navbar = () => {
             </p>
           </a>
           <a
-            href={`mailto:${data.contact.email}?subject=Contact`}
+            href={data.contact.email}
+            target="_blank"
             className="cursor-pointer"
           >
             <p className="text-md  hover:text-amber_Custom sm:text-[12px] lg:text-[16px] w-max">

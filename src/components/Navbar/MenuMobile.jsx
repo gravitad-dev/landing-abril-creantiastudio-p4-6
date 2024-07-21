@@ -65,7 +65,8 @@ const MenuMobile = ({ isOpen, onClick }) => {
           </a>
 
           <a
-            href={`mailto:${data.contact.email}?subject=Contact`}
+            href="https://blog.creantiastudio.com/contacto/"
+            target="_blank"
             className="flex items-center gap-4 cursor-pointer"
           >
             <img

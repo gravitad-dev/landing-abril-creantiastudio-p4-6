@@ -54,7 +54,7 @@
     "contact": {
       "id": 7,
       "text": "Contactar",
-      "href": "contact",
+      "href": "https://blog.creantiastudio.com/contacto/",
       "icon": "/icons/contact.png",
       "alt": "icon contact"
     },
@@ -72,7 +72,7 @@
     "title": "Empoderando el Futuro ",
     "title2": "del Marketing",
     "subtitle": "Con inteligencia artificial, transformamos tus estrategias en éxito.",
-    "button": "Conocenos",
+    "button": "Conócenos",
     "action": "https://blog.creantiastudio.com/"
   },
   "section-slider": [
@@ -198,28 +198,28 @@
       {
         "id": 1,
         "title": "Automatización de Marketing",
-        "paragraph": "Optimiza tus campañas con automatización inteligente que ahorra tiempo y maximiza los resultados.",
+        "paragraph": "Optimiza campañas con automatización inteligente que ahorra tiempo y maximiza resultados.",
         "image": { "url": "/posts/picture.webp", "alt": "post img" },
         "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 2,
         "title": "Análisis Predictivo",
-        "paragraph": "Utiliza datos para pronosticar tendencias y comportamientos del consumidor.",
+        "paragraph": "Utiliza datos para pronosticar tendencias y comportamientos de consumidores.",
         "image": { "url": "/posts/picture2.webp", "alt": "post img" },
         "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 3,
         "title": "Personalización Avanzada",
-        "paragraph": "Crea experiencias únicas para cada cliente con IA. Gestión de Datos: Organiza y utiliza tu información de manera efectiva.",
+        "paragraph": "Crea experiencias únicas para cada cliente con IA avanzada y eficiente.",
         "image": { "url": "/posts/picture3.webp", "alt": "post img" },
         "link": "https://blog.creantiastudio.com/"
       },
       {
         "id": 4,
         "title": "Gestión de Datos",
-        "paragraph": "Organiza y utiliza tu información de manera efectiva.",
+        "paragraph": "Organiza y utiliza tu información de manera rápida, efectiva y segura.",
         "image": {
           "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718896008/picture4.webp",
           "alt": "post img"
@@ -229,7 +229,7 @@
       {
         "id": 5,
         "title": "Desarrollo de Chatbots",
-        "paragraph": "Mejora la interacción con los clientes con chatbots impulsados por IA.",
+        "paragraph": "Mejora la interacción con clientes usando chatbots impulsados por IA.",
         "image": {
           "url": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1718853033/chatbot.webp",
           "alt": "post img"
@@ -239,7 +239,7 @@
       {
         "id": 6,
         "title": "Consultoría y Estrategia",
-        "paragraph": "Asesoramiento experto para integrar soluciones de IA en tu negocio.",
+        "paragraph": "Asesoramiento experto para integrar soluciones de IA en tu negocio eficientemente.",
         "image": { "url": "/posts/picture6.webp", "alt": "post img" },
         "link": "https://blog.creantiastudio.com/"
       }
@@ -252,7 +252,7 @@
       {
         "id": 1,
         "title": "Experiencia Comprobada",
-        "subttile": "Contamos con un historial de proyectos exitosos que demuestran nuestra experiencia en IA y automatización de marketing.",
+        "subttile": "Con un historial probado en IA y automatización de marketing, demostramos nuestra experiencia.",
         "action": {
           "text": "Saber más",
           "url": "https://blog.creantiastudio.com/"
@@ -262,7 +262,7 @@
       {
         "id": 2,
         "title": "Equipo Multidisciplinario",
-        "subttile": "Nuestro equipo reúne conocimientos en tecnología, marketing y análisis de datos.",
+        "subttile": "Nuestro equipo combina conocimientos en tecnología, marketing y análisis de datos.",
         "action": {
           "text": "Saber más",
           "url": "https://blog.creantiastudio.com/"
@@ -272,7 +272,7 @@
       {
         "id": 3,
         "title": "Innovación Constante",
-        "subttile": "Nos mantenemos a la vanguardia de las últimas tendencias y avances tecnológicos.",
+        "subttile": "Nos mantenemos siempre a la vanguardia de las últimas tendencias y avances tecnológicos.",
         "action": {
           "text": "Saber más",
           "url": "https://blog.creantiastudio.com/"
@@ -282,7 +282,7 @@
       {
         "id": 4,
         "title": "Compromiso con la Calidad",
-        "subttile": "Estamos dedicados a ofrecer soluciones de alta calidad que superen las expectativas de nuestros clientes.",
+        "subttile": "Dedicados a ofrecer soluciones de alta calidad que superen expectativas.",
         "action": {
           "text": "Saber más",
           "url": "https://blog.creantiastudio.com/"
@@ -292,7 +292,7 @@
       {
         "id": 5,
         "title": "Transparencia y Ética",
-        "subttile": "Operamos con total transparencia y un fuerte compromiso ético.",
+        "subttile": "Operamos con total transparencia y con un fuerte compromiso ético.",
         "action": {
           "text": "Saber más",
           "url": "https://blog.creantiastudio.com/"
@@ -304,7 +304,7 @@
   "section-contact": {
     "title": "Mantente actualizado",
     "input_placeholder": "Ingresa tu email",
-    "button": "Subscribete",
+    "button": "Contáctanos",
     "error": "Ingresa un correo válido"
   },
   "section-footer": {
@@ -362,7 +362,7 @@
     "text": "Creantia Studio"
   },
   "contact": {
-    "email": "creant-ia-digital@gmail.com"
+    "email": "https://blog.creantiastudio.com/contacto/"
   },
   "blog": {
     "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714111452/drone_landing/blog/blog-icon.png",

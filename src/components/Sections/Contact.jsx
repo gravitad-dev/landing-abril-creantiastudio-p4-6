@@ -16,14 +16,14 @@ function Contact() {
     setIsValidEmail(regex.test(input));
   };
 
-  const handleButtonClick = () => {
-    if (isValidEmail && email) {
-      window.location.href = `mailto:${data.contact.email}?subject=Contact of a user&body=${email}: You have been contacted`;
-      setEmail('');
-    } else {
-      console.log(data['section-contact'].error);
-    }
-  };
+  // const handleButtonClick = () => {
+  //   if (isValidEmail && email) {
+  //     window.location.href = `mailto:${data.contact.email}?subject=Contact of a user&body=${email}: You have been contacted`;
+  //     setEmail('');
+  //   } else {
+  //     console.log(data['section-contact'].error);
+  //   }
+  // };
 
   return (
     <section id="contact">
@@ -32,19 +32,20 @@ function Contact() {
           {data['section-contact'].title}
         </p>
         <div className="flex flex-col sm:flex-row items-center mt-4 gap-2 w-full justify-center">
-          <input
+          {/* <input
             type="email"
             value={email}
             onChange={handleEmailChange}
             className="sm:min-w-[280px] text-white bg-blue-gray_Custom p-2 px-2 border-none rounded-md border placeholder-[#DADADD]"
             placeholder={data['section-contact'].input_placeholder}
-          />
-          <button
+          /> */}
+          <a
             className="rounded-md bg-amber_Custom text-blue-gray_Custom p-2 px-6 hover:brightness-105 active:brightness-95 shadow-sm shadow-blue-gray_Custom active:shadow-none transition-all"
-            onClick={handleButtonClick}
+            href="https://blog.creantiastudio.com/contacto/"
+            target="_blank"
           >
             {data['section-contact'].button}
-          </button>
+          </a>
         </div>
         {!isValidEmail && email !== '' && (
           <p className="text-orange-500 text-sm mt-2">
