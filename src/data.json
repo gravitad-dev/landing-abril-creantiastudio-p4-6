@@ -8,41 +8,7 @@
         "icon": "https://res.cloudinary.com/djzp2k8gd/image/upload/v1714114243/drone_landing/mobile-icons/home-icon.png",
         "alt": "icon home"
       },
-      {
-        "id": 2,
-        "text": "Productos",
-        "href": "products",
-        "icon": "/icons/products.png",
-        "alt": "icon products"
-      },
-      {
-        "id": 3,
-        "text": "Soluciónes",
-        "href": "solutions",
-        "icon": "/icons/solutions.png",
-        "alt": "icon solutions"
-      },
-      {
-        "id": 4,
-        "text": "Recursos",
-        "href": "resources",
-        "icon": "/icons/resources.png",
-        "alt": "icon resources"
-      },
-      {
-        "id": 5,
-        "text": "Testimonios",
-        "href": "testimonials",
-        "icon": "/icons/testimonials.png",
-        "alt": "icon testimonials"
-      },
-      {
-        "id": 6,
-        "text": "Servicios",
-        "href": "posts",
-        "icon": "/icons/posts.png",
-        "alt": "icon posts"
-      },
+
       {
         "id": 7,
         "text": "Proyectos",
